@@ -31,3 +31,7 @@ const MONGO_URL = ''; // DB URI
 ```shell
 npm start
 ```
+
+#### API Endpoint
+
+You can check the API endpoint documentation in [here](https://documenter.getpostman.com/view/32005248/2s9Ykt6eia)
